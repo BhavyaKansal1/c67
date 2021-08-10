@@ -1,2 +1,3 @@
 Characters line 1.
 Characters line 2.
+Characters line 3 added.
