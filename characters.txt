@@ -1,1 +1,2 @@
 Characters line 1.
+Characters line 2.
